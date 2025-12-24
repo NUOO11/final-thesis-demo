@@ -1,0 +1,7 @@
+streamlit
+spacy>=3.7.0,<3.8.0
+nltk
+graphviz
+requests
+# 下面这个是优化过的 .whl 链接，安装更快，不烧 CPU
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
